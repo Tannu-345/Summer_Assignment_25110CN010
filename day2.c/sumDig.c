@@ -1,7 +1,7 @@
 # include <stdio.h>
 int main (){
     int num,sumDig,digit;
-    printf("enter a num",num);
+    printf("enter a num");
     scanf("%d",&num);
 
     sumDig=0;
